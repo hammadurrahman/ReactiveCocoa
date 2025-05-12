@@ -8,3 +8,4 @@ public func scopedExample(_ exampleDescription: String, _ action: () -> Void) {
 public enum PlaygroundError: Error {
 	case example(String)
 }
+  PR_TITLE = 'Automated update',
